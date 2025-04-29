@@ -8,7 +8,4 @@ Circular Arrangeは、オブジェクトを選択し数と半径を指定して�
 2. ツールに`Circular Arrange`が表示されているので、**数と半径**をお好みの数値に設定し、`Circular Arrange`をクリックするとオブジェクトが円形配置されます。
 3. **Merge Object**にチェックを入れると、円形配置されたオブジェクトを統合します。
 
-![使用例](https://i.ibb.co/rvhKPk0/sampleimage01.png)
-こんなのが作れるよ↓↓
-![使用例](https://i.ibb.co/dbbmqg4/udon-cypher.png)
-
+![サンプル画像](images/sampleimage01.png)
