@@ -1,6 +1,8 @@
 # Circular Arrange v1.2.1 / blender version 2.8.0 or higher
-
 Circular Arrangeは、オブジェクトを選択し数と半径を指定して円形に配置できるアドオンです。`circular_arrange.py`をプリファレンスからインストールし、チェックボックスで有効化すると使えるようになります。
+
+## English
+📄 [Click here for the English README](./README-EN.md)
 
 ## 使い方
 
